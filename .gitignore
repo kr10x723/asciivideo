@@ -1,0 +1,8 @@
+# Build artifacts / runtime junk
+*.o
+*.obj
+*.exe~
+ascii_crash.txt
+
+# Local test media
+*.mp4
